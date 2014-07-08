@@ -1,0 +1,6 @@
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll.config
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.pdb
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Release\XsAndOsGame.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Release\XsAndOsGame.dll
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Release\XsAndOsGame.pdb

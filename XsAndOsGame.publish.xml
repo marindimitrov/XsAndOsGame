@@ -1,0 +1,9 @@
+<publishData>
+  <publishProfile
+    publishUrl="https://xsandosgame-001-site1.smarterasp.net:8172/msdeploy.axd"
+    msdeploySite="xsandosgame-001-site1"
+    destinationAppUrl="http://xsandosgame-001-site1.smarterasp.net/"
+    profileName="Default Settings"
+    publishMethod="MSDeploy"
+    userName="ifc\xsandosgame-001" />
+</publishData>

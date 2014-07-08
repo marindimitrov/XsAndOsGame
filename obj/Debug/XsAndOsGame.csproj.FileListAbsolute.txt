@@ -1,0 +1,12 @@
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll.config
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.pdb
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.dll
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.pdb
+C:\Users\Marin\Desktop\Trash\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.csprojResolveAssemblyReference.cache
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll.config
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.dll
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\bin\XsAndOsGame.pdb
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.csprojResolveAssemblyReference.cache
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.dll
+E:\Developer\Individual projects\XsAndOsGame\XsAndOsGame\obj\Debug\XsAndOsGame.pdb

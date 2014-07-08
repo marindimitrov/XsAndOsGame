@@ -1,0 +1,24 @@
+﻿body {
+    position: relative;
+    left: 30px;
+    margin: 0 auto;
+}
+
+.button {
+    border: 1px solid blue;
+    border-radius: 5px;
+}
+
+.result {
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+}
+
+#NewGame {
+    color: white;
+    border-radius: 5px;
+    font-size: larger;
+    background-color: blue;
+    margin: 30px;
+}
